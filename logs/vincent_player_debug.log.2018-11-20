@@ -1,0 +1,11 @@
+2018-11-20 22:26:07  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-20 22:26:07  [ http-nio-7807-exec-1:72 ] - [ DEBUG ]  {conn-10001, pstmt-20000} exit cache
+2018-11-20 22:26:42  [ http-nio-7807-exec-2:35675 ] - [ DEBUG ]  {conn-10001, pstmt-20001} enter cache
+2018-11-20 22:27:50  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-20 22:27:50  [ http-nio-7807-exec-1:50 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-20 22:41:53  [ http-nio-7807-exec-2:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-20 22:41:53  [ http-nio-7807-exec-2:57 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-20 22:46:14  [ http-nio-7807-exec-2:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-20 22:46:14  [ http-nio-7807-exec-2:48 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-20 22:48:31  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-20 22:48:31  [ http-nio-7807-exec-1:47 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache

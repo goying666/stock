@@ -1,0 +1,397 @@
+2018-11-21 19:26:04  [ http-nio-7807-exec-1:2533 ] - [ ERROR ]  Exception is : com.alibaba.fastjson.JSONException: syntax error, pos 1
+ code is : 000001
+2018-11-21 19:27:23  [ http-nio-7807-exec-2:81615 ] - [ ERROR ]  Exception is : com.alibaba.fastjson.JSONException: syntax error, pos 1
+ code is : 000001
+2018-11-21 19:27:49  [ http-nio-7807-exec-3:107021 ] - [ ERROR ]  Exception is : com.alibaba.fastjson.JSONException: syntax error, pos 1
+ code is : 000001
+2018-11-21 19:28:09  [ http-nio-7807-exec-4:127706 ] - [ ERROR ]  Exception is : com.alibaba.fastjson.JSONException: syntax error, pos 1
+ code is : 000001
+2018-11-21 19:36:43  [ http-nio-7807-exec-1:22005 ] - [ ERROR ]  okhttp return null , code is : 000008
+2018-11-21 22:46:30  [ http-nio-7807-exec-1:6733 ] - [ ERROR ]  okhttp return null , code is : 000004
+2018-11-21 22:46:31  [ http-nio-7807-exec-1:7203 ] - [ ERROR ]  okhttp return null , code is : 000005
+2018-11-21 22:46:36  [ http-nio-7807-exec-1:12628 ] - [ ERROR ]  okhttp return null , code is : 000008
+2018-11-21 22:46:51  [ http-nio-7807-exec-1:27451 ] - [ ERROR ]  okhttp return null , code is : 000017
+2018-11-21 22:46:54  [ http-nio-7807-exec-1:30546 ] - [ ERROR ]  okhttp return null , code is : 000019
+2018-11-21 22:47:19  [ http-nio-7807-exec-1:55370 ] - [ ERROR ]  okhttp return null , code is : 000031
+2018-11-21 22:47:27  [ http-nio-7807-exec-1:63553 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 0
+2018-11-21 22:47:27  [ http-nio-7807-exec-1:64121 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 1
+2018-11-21 22:47:28  [ http-nio-7807-exec-1:64591 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 2
+2018-11-21 22:47:28  [ http-nio-7807-exec-1:65073 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 3
+2018-11-21 22:47:29  [ http-nio-7807-exec-1:65535 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 4
+2018-11-21 22:47:29  [ http-nio-7807-exec-1:66001 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 5
+2018-11-21 22:47:30  [ http-nio-7807-exec-1:66469 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 6
+2018-11-21 22:47:30  [ http-nio-7807-exec-1:66886 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 7
+2018-11-21 22:47:31  [ http-nio-7807-exec-1:67406 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 8
+2018-11-21 22:47:31  [ http-nio-7807-exec-1:67884 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 9
+2018-11-21 22:47:32  [ http-nio-7807-exec-1:68376 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 10
+2018-11-21 22:47:32  [ http-nio-7807-exec-1:68806 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 11
+2018-11-21 22:47:33  [ http-nio-7807-exec-1:69650 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 12
+2018-11-21 22:47:34  [ http-nio-7807-exec-1:70210 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 13
+2018-11-21 22:47:34  [ http-nio-7807-exec-1:70652 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 14
+2018-11-21 22:47:35  [ http-nio-7807-exec-1:71219 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 15
+2018-11-21 22:47:35  [ http-nio-7807-exec-1:71687 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 16
+2018-11-21 22:47:35  [ http-nio-7807-exec-1:72109 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 17
+2018-11-21 22:47:36  [ http-nio-7807-exec-1:72599 ] - [ ERROR ]  okhttp return null , code is : 18
+2018-11-21 22:47:36  [ http-nio-7807-exec-1:73020 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 19
+2018-11-21 22:47:37  [ http-nio-7807-exec-1:73559 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 20
+2018-11-21 22:47:38  [ http-nio-7807-exec-1:74237 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 21
+2018-11-21 22:47:38  [ http-nio-7807-exec-1:74698 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 22
+2018-11-21 22:47:38  [ http-nio-7807-exec-1:75098 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 23
+2018-11-21 22:47:39  [ http-nio-7807-exec-1:75543 ] - [ ERROR ]  okhttp return null , code is : 24
+2018-11-21 22:47:39  [ http-nio-7807-exec-1:76034 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 25
+2018-11-21 22:47:40  [ http-nio-7807-exec-1:76483 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 26
+2018-11-21 22:47:40  [ http-nio-7807-exec-1:76942 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 27
+2018-11-21 22:47:41  [ http-nio-7807-exec-1:77392 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 28
+2018-11-21 22:47:41  [ http-nio-7807-exec-1:77795 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 29
+2018-11-21 22:47:42  [ http-nio-7807-exec-1:78288 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 30
+2018-11-21 22:47:42  [ http-nio-7807-exec-1:78721 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 31
+2018-11-21 22:47:43  [ http-nio-7807-exec-1:79211 ] - [ ERROR ]  okhttp return null , code is : 32
+2018-11-21 22:47:43  [ http-nio-7807-exec-1:79641 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 33
+2018-11-21 22:47:43  [ http-nio-7807-exec-1:80062 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 34
+2018-11-21 22:47:44  [ http-nio-7807-exec-1:80502 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 35
+2018-11-21 22:47:44  [ http-nio-7807-exec-1:80985 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 36
+2018-11-21 22:47:45  [ http-nio-7807-exec-1:81395 ] - [ ERROR ]  okhttp return null , code is : 37
+2018-11-21 22:47:45  [ http-nio-7807-exec-1:81788 ] - [ ERROR ]  okhttp return null , code is : 38
+2018-11-21 22:47:46  [ http-nio-7807-exec-1:82232 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 39
+2018-11-21 22:47:46  [ http-nio-7807-exec-1:82638 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 40
+2018-11-21 22:47:46  [ http-nio-7807-exec-1:83092 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 41
+2018-11-21 22:47:47  [ http-nio-7807-exec-1:83605 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 42
+2018-11-21 22:47:47  [ http-nio-7807-exec-1:84093 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 43
+2018-11-21 22:47:48  [ http-nio-7807-exec-1:84538 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 44
+2018-11-21 22:47:48  [ http-nio-7807-exec-1:84949 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 45
+2018-11-21 22:47:49  [ http-nio-7807-exec-1:85419 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 46
+2018-11-21 22:47:49  [ http-nio-7807-exec-1:85898 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 47
+2018-11-21 22:47:50  [ http-nio-7807-exec-1:86363 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 48
+2018-11-21 22:47:50  [ http-nio-7807-exec-1:86849 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 49
+2018-11-21 22:47:51  [ http-nio-7807-exec-1:87270 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 50
+2018-11-21 22:47:51  [ http-nio-7807-exec-1:87771 ] - [ ERROR ]  okhttp return null , code is : 51
+2018-11-21 22:47:52  [ http-nio-7807-exec-1:88254 ] - [ ERROR ]  okhttp return null , code is : 52
+2018-11-21 22:47:52  [ http-nio-7807-exec-1:88801 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 53
+2018-11-21 22:47:53  [ http-nio-7807-exec-1:89224 ] - [ ERROR ]  okhttp return null , code is : 54
+2018-11-21 22:47:53  [ http-nio-7807-exec-1:89691 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 55
+2018-11-21 22:47:54  [ http-nio-7807-exec-1:90182 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 56
+2018-11-21 22:47:54  [ http-nio-7807-exec-1:90621 ] - [ ERROR ]  okhttp return null , code is : 57
+2018-11-21 22:47:54  [ http-nio-7807-exec-1:91069 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 58
+2018-11-21 22:47:55  [ http-nio-7807-exec-1:91589 ] - [ ERROR ]  okhttp return null , code is : 59
+2018-11-21 22:47:55  [ http-nio-7807-exec-1:91993 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 60
+2018-11-21 22:47:56  [ http-nio-7807-exec-1:92469 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 61
+2018-11-21 22:47:56  [ http-nio-7807-exec-1:93030 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 62
+2018-11-21 22:47:57  [ http-nio-7807-exec-1:93438 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 63
+2018-11-21 22:47:57  [ http-nio-7807-exec-1:93917 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 64
+2018-11-21 22:47:58  [ http-nio-7807-exec-1:94364 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 65
+2018-11-21 22:47:58  [ http-nio-7807-exec-1:94797 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 66
+2018-11-21 22:47:59  [ http-nio-7807-exec-1:95255 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 67
+2018-11-21 22:47:59  [ http-nio-7807-exec-1:95659 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 68
+2018-11-21 22:48:00  [ http-nio-7807-exec-1:96439 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 69
+2018-11-21 22:48:00  [ http-nio-7807-exec-1:97081 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 70
+2018-11-21 22:48:01  [ http-nio-7807-exec-1:97560 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 71
+2018-11-21 22:48:01  [ http-nio-7807-exec-1:97953 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 72
+2018-11-21 22:48:02  [ http-nio-7807-exec-1:98401 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 73
+2018-11-21 22:48:02  [ http-nio-7807-exec-1:98821 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 74
+2018-11-21 22:48:03  [ http-nio-7807-exec-1:99246 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 75
+2018-11-21 22:48:03  [ http-nio-7807-exec-1:99715 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 76
+2018-11-21 22:48:03  [ http-nio-7807-exec-1:100175 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 77
+2018-11-21 22:48:04  [ http-nio-7807-exec-1:100618 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 78
+2018-11-21 22:48:04  [ http-nio-7807-exec-1:101052 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 79
+2018-11-21 22:48:05  [ http-nio-7807-exec-1:101535 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 80
+2018-11-21 22:48:05  [ http-nio-7807-exec-1:101981 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 81
+2018-11-21 22:48:06  [ http-nio-7807-exec-1:102623 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 82
+2018-11-21 22:48:06  [ http-nio-7807-exec-1:103064 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 83
+2018-11-21 22:48:07  [ http-nio-7807-exec-1:103661 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 84
+2018-11-21 22:48:07  [ http-nio-7807-exec-1:104086 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 85
+2018-11-21 22:48:08  [ http-nio-7807-exec-1:104522 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 86
+2018-11-21 22:48:08  [ http-nio-7807-exec-1:104975 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 87
+2018-11-21 22:48:09  [ http-nio-7807-exec-1:105430 ] - [ ERROR ]  okhttp return null , code is : 88
+2018-11-21 22:48:09  [ http-nio-7807-exec-1:106160 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 89
+2018-11-21 22:48:10  [ http-nio-7807-exec-1:106649 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 90
+2018-11-21 22:48:10  [ http-nio-7807-exec-1:107054 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 91
+2018-11-21 22:48:11  [ http-nio-7807-exec-1:107568 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 92
+2018-11-21 22:48:11  [ http-nio-7807-exec-1:108047 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 93
+2018-11-21 22:48:12  [ http-nio-7807-exec-1:108953 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 94
+2018-11-21 22:48:13  [ http-nio-7807-exec-1:109361 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 95
+2018-11-21 22:48:13  [ http-nio-7807-exec-1:110106 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 96
+2018-11-21 22:48:14  [ http-nio-7807-exec-1:110539 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 97
+2018-11-21 22:48:14  [ http-nio-7807-exec-1:110980 ] - [ ERROR ]  okhttp return null , code is : 98
+2018-11-21 22:48:15  [ http-nio-7807-exec-1:111483 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 99
+2018-11-21 22:48:22  [ http-nio-7807-exec-1:118774 ] - [ ERROR ]  okhttp return null , code is : 000017
+2018-11-21 22:48:28  [ http-nio-7807-exec-1:124870 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 0
+2018-11-21 22:48:29  [ http-nio-7807-exec-1:125571 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 1
+2018-11-21 22:48:30  [ http-nio-7807-exec-1:126237 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 2
+2018-11-21 22:48:30  [ http-nio-7807-exec-1:126771 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 3
+2018-11-21 22:48:31  [ http-nio-7807-exec-1:127466 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 4
+2018-11-21 22:48:32  [ http-nio-7807-exec-1:128217 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 5
+2018-11-21 22:48:32  [ http-nio-7807-exec-1:128647 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 6
+2018-11-21 22:48:32  [ http-nio-7807-exec-1:129106 ] - [ ERROR ]  okhttp return null , code is : 7
+2018-11-21 22:48:33  [ http-nio-7807-exec-1:129550 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 8
+2018-11-21 22:48:33  [ http-nio-7807-exec-1:130025 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 9
+2018-11-21 22:48:34  [ http-nio-7807-exec-1:130452 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 10
+2018-11-21 22:48:34  [ http-nio-7807-exec-1:130915 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 11
+2018-11-21 22:48:35  [ http-nio-7807-exec-1:131593 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 12
+2018-11-21 22:48:35  [ http-nio-7807-exec-1:132114 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 13
+2018-11-21 22:48:36  [ http-nio-7807-exec-1:132536 ] - [ ERROR ]  okhttp return null , code is : 14
+2018-11-21 22:48:36  [ http-nio-7807-exec-1:132956 ] - [ ERROR ]  okhttp return null , code is : 15
+2018-11-21 22:48:37  [ http-nio-7807-exec-1:133390 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 16
+2018-11-21 22:48:37  [ http-nio-7807-exec-1:133770 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 17
+2018-11-21 22:48:37  [ http-nio-7807-exec-1:134162 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 18
+2018-11-21 22:48:38  [ http-nio-7807-exec-1:134902 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 19
+2018-11-21 22:48:39  [ http-nio-7807-exec-1:135369 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 20
+2018-11-21 22:48:39  [ http-nio-7807-exec-1:135824 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 21
+2018-11-21 22:48:40  [ http-nio-7807-exec-1:136282 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 22
+2018-11-21 22:48:40  [ http-nio-7807-exec-1:136722 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 23
+2018-11-21 22:48:41  [ http-nio-7807-exec-1:137196 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 24
+2018-11-21 22:48:41  [ http-nio-7807-exec-1:137661 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 25
+2018-11-21 22:48:44  [ http-nio-7807-exec-1:141095 ] - [ ERROR ]  okhttp return null , code is : 26
+2018-11-21 22:48:45  [ http-nio-7807-exec-1:141558 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 27
+2018-11-21 22:48:45  [ http-nio-7807-exec-1:142044 ] - [ ERROR ]  okhttp return null , code is : 28
+2018-11-21 22:48:46  [ http-nio-7807-exec-1:142527 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 29
+2018-11-21 22:48:47  [ http-nio-7807-exec-1:143194 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 30
+2018-11-21 22:48:47  [ http-nio-7807-exec-1:143903 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 31
+2018-11-21 22:48:48  [ http-nio-7807-exec-1:144366 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 32
+2018-11-21 22:48:48  [ http-nio-7807-exec-1:144824 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 33
+2018-11-21 22:48:49  [ http-nio-7807-exec-1:145318 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 34
+2018-11-21 22:48:49  [ http-nio-7807-exec-1:145725 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 35
+2018-11-21 22:48:49  [ http-nio-7807-exec-1:146140 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 36
+2018-11-21 22:48:53  [ http-nio-7807-exec-1:149551 ] - [ ERROR ]  okhttp return null , code is : 37
+2018-11-21 22:48:56  [ http-nio-7807-exec-1:153121 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 38
+2018-11-21 22:48:57  [ http-nio-7807-exec-1:153533 ] - [ ERROR ]  okhttp return null , code is : 39
+2018-11-21 22:48:57  [ http-nio-7807-exec-1:154006 ] - [ ERROR ]  okhttp return null , code is : 40
+2018-11-21 22:48:58  [ http-nio-7807-exec-1:154441 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 41
+2018-11-21 22:48:58  [ http-nio-7807-exec-1:154972 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 42
+2018-11-21 22:48:59  [ http-nio-7807-exec-1:155442 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 43
+2018-11-21 22:48:59  [ http-nio-7807-exec-1:155874 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 44
+2018-11-21 22:49:00  [ http-nio-7807-exec-1:156331 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 45
+2018-11-21 22:49:00  [ http-nio-7807-exec-1:156788 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 46
+2018-11-21 22:49:01  [ http-nio-7807-exec-1:157285 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 47
+2018-11-21 22:49:01  [ http-nio-7807-exec-1:157738 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 48
+2018-11-21 22:49:02  [ http-nio-7807-exec-1:158469 ] - [ ERROR ]  okhttp return null , code is : 49
+2018-11-21 22:49:02  [ http-nio-7807-exec-1:158929 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 50
+2018-11-21 22:49:03  [ http-nio-7807-exec-1:159396 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 51
+2018-11-21 22:49:03  [ http-nio-7807-exec-1:159891 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 52
+2018-11-21 22:49:04  [ http-nio-7807-exec-1:160528 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 53
+2018-11-21 22:49:04  [ http-nio-7807-exec-1:160980 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 54
+2018-11-21 22:49:05  [ http-nio-7807-exec-1:161947 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 55
+2018-11-21 22:49:06  [ http-nio-7807-exec-1:162336 ] - [ ERROR ]  okhttp return null , code is : 56
+2018-11-21 22:49:06  [ http-nio-7807-exec-1:163023 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 57
+2018-11-21 22:49:07  [ http-nio-7807-exec-1:163468 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 58
+2018-11-21 22:49:08  [ http-nio-7807-exec-1:164257 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 59
+2018-11-21 22:49:08  [ http-nio-7807-exec-1:164748 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 60
+2018-11-21 22:49:09  [ http-nio-7807-exec-1:165204 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 61
+2018-11-21 22:49:09  [ http-nio-7807-exec-1:165650 ] - [ ERROR ]  okhttp return null , code is : 62
+2018-11-21 22:49:09  [ http-nio-7807-exec-1:166114 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 63
+2018-11-21 22:49:10  [ http-nio-7807-exec-1:166539 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 64
+2018-11-21 22:49:10  [ http-nio-7807-exec-1:167004 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 65
+2018-11-21 22:49:11  [ http-nio-7807-exec-1:167431 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 66
+2018-11-21 22:49:11  [ http-nio-7807-exec-1:167843 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 67
+2018-11-21 22:49:12  [ http-nio-7807-exec-1:168324 ] - [ ERROR ]  okhttp return null , code is : 68
+2018-11-21 22:49:12  [ http-nio-7807-exec-1:168747 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 69
+2018-11-21 22:49:13  [ http-nio-7807-exec-1:169218 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 70
+2018-11-21 22:49:13  [ http-nio-7807-exec-1:169629 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 71
+2018-11-21 22:49:13  [ http-nio-7807-exec-1:170077 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 72
+2018-11-21 22:49:14  [ http-nio-7807-exec-1:170835 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 73
+2018-11-21 22:49:15  [ http-nio-7807-exec-1:171427 ] - [ ERROR ]  okhttp return null , code is : 74
+2018-11-21 22:49:18  [ http-nio-7807-exec-1:175120 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 75
+2018-11-21 22:49:19  [ http-nio-7807-exec-1:175587 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 76
+2018-11-21 22:49:20  [ http-nio-7807-exec-1:176210 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 77
+2018-11-21 22:49:20  [ http-nio-7807-exec-1:176871 ] - [ ERROR ]  okhttp return null , code is : 78
+2018-11-21 22:49:21  [ http-nio-7807-exec-1:177359 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 79
+2018-11-21 22:49:21  [ http-nio-7807-exec-1:177817 ] - [ ERROR ]  okhttp return null , code is : 80
+2018-11-21 22:49:22  [ http-nio-7807-exec-1:178226 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 81
+2018-11-21 22:49:22  [ http-nio-7807-exec-1:178641 ] - [ ERROR ]  okhttp return null , code is : 82
+2018-11-21 22:49:23  [ http-nio-7807-exec-1:179191 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 83
+2018-11-21 22:49:23  [ http-nio-7807-exec-1:179647 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 84
+2018-11-21 22:49:23  [ http-nio-7807-exec-1:180063 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 85
+2018-11-21 22:49:24  [ http-nio-7807-exec-1:180617 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 86
+2018-11-21 22:49:24  [ http-nio-7807-exec-1:181057 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 87
+2018-11-21 22:49:25  [ http-nio-7807-exec-1:181522 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 88
+2018-11-21 22:49:25  [ http-nio-7807-exec-1:181992 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 89
+2018-11-21 22:49:26  [ http-nio-7807-exec-1:182415 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 90
+2018-11-21 22:49:26  [ http-nio-7807-exec-1:182923 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 91
+2018-11-21 22:49:27  [ http-nio-7807-exec-1:183339 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 92
+2018-11-21 22:49:27  [ http-nio-7807-exec-1:183839 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 93
+2018-11-21 22:49:28  [ http-nio-7807-exec-1:184327 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 94
+2018-11-21 22:49:28  [ http-nio-7807-exec-1:184810 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 95
+2018-11-21 22:49:29  [ http-nio-7807-exec-1:185232 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 96
+2018-11-21 22:49:29  [ http-nio-7807-exec-1:185661 ] - [ ERROR ]  okhttp return null , code is : 97
+2018-11-21 22:49:29  [ http-nio-7807-exec-1:186156 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 98
+2018-11-21 22:49:30  [ http-nio-7807-exec-1:186612 ] - [ ERROR ]  okhttp return null , code is : 99
+2018-11-21 22:49:33  [ http-nio-7807-exec-1:189385 ] - [ ERROR ]  okhttp return null , code is : 000005
+2018-11-21 22:49:44  [ http-nio-7807-exec-1:201083 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 0
+2018-11-21 22:49:45  [ http-nio-7807-exec-1:201498 ] - [ ERROR ]  Exception is : java.lang.NullPointerException
+ code is : 1
+2018-11-21 22:57:46  [ http-nio-7807-exec-1:709 ] - [ ERROR ]  okhttp return null , code is : 000001
+2018-11-21 22:58:04  [ http-nio-7807-exec-1:18006 ] - [ ERROR ]  okhttp return null , code is : 000010
+2018-11-21 22:58:23  [ http-nio-7807-exec-1:37107 ] - [ ERROR ]  okhttp return null , code is : 000020
+2018-11-21 22:58:39  [ http-nio-7807-exec-1:53528 ] - [ ERROR ]  okhttp return null , code is : 000029
+2018-11-21 22:58:46  [ http-nio-7807-exec-1:60690 ] - [ ERROR ]  okhttp return null , code is : 000034
+2018-11-21 22:58:47  [ http-nio-7807-exec-1:61202 ] - [ ERROR ]  okhttp return null , code is : 000035

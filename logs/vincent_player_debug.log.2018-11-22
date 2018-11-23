@@ -1,0 +1,393 @@
+2018-11-22 15:57:29  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 15:57:29  [ http-nio-7807-exec-1:122 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 15:57:33  [ http-nio-7807-exec-1:3892 ] - [ INFO ]  for code is : 000001
+ for spend : 0s89ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8275 ] - [ INFO ]  for code is : 000002
+ for spend : 0s9ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8283 ] - [ INFO ]  for code is : 000004
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8290 ] - [ INFO ]  for code is : 000005
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8299 ] - [ INFO ]  for code is : 000006
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8307 ] - [ INFO ]  for code is : 000007
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8314 ] - [ INFO ]  for code is : 000008
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8324 ] - [ INFO ]  for code is : 000009
+ for spend : 0s10ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8332 ] - [ INFO ]  for code is : 000010
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8340 ] - [ INFO ]  for code is : 000011
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8353 ] - [ INFO ]  for code is : 000012
+ for spend : 0s12ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8361 ] - [ INFO ]  for code is : 000014
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8372 ] - [ INFO ]  for code is : 000016
+ for spend : 0s10ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8382 ] - [ INFO ]  for code is : 000017
+ for spend : 0s10ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8391 ] - [ INFO ]  for code is : 000018
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8400 ] - [ INFO ]  for code is : 000019
+ for spend : 0s9ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8409 ] - [ INFO ]  for code is : 000020
+ for spend : 0s9ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8420 ] - [ INFO ]  for code is : 000021
+ for spend : 0s10ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8428 ] - [ INFO ]  for code is : 000022
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8436 ] - [ INFO ]  for code is : 000023
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8445 ] - [ INFO ]  for code is : 000025
+ for spend : 0s9ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8453 ] - [ INFO ]  for code is : 000026
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8460 ] - [ INFO ]  for code is : 000027
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8468 ] - [ INFO ]  for code is : 000028
+ for spend : 0s7ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8476 ] - [ INFO ]  for code is : 000029
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8489 ] - [ INFO ]  for code is : 000030
+ for spend : 0s13ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8511 ] - [ INFO ]  for code is : 000031
+ for spend : 0s22ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8533 ] - [ INFO ]  for code is : 000032
+ for spend : 0s22ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8541 ] - [ INFO ]  for code is : 000034
+ for spend : 0s8ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8548 ] - [ INFO ]  for code is : 000035
+ for spend : 0s6ms
+2018-11-22 15:57:37  [ http-nio-7807-exec-1:8549 ] - [ INFO ]  InitDayLineStockData spend : 8s894ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127449 ] - [ INFO ]  for code is : 000001
+ for spend : 20s840ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127466 ] - [ INFO ]  for code is : 000002
+ for spend : 0s16ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127477 ] - [ INFO ]  for code is : 000004
+ for spend : 0s10ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127489 ] - [ INFO ]  for code is : 000005
+ for spend : 0s12ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127500 ] - [ INFO ]  for code is : 000006
+ for spend : 0s11ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127508 ] - [ INFO ]  for code is : 000007
+ for spend : 0s8ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127519 ] - [ INFO ]  for code is : 000008
+ for spend : 0s10ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127527 ] - [ INFO ]  for code is : 000009
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127535 ] - [ INFO ]  for code is : 000010
+ for spend : 0s8ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127542 ] - [ INFO ]  for code is : 000011
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127549 ] - [ INFO ]  for code is : 000012
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127556 ] - [ INFO ]  for code is : 000014
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127564 ] - [ INFO ]  for code is : 000016
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127571 ] - [ INFO ]  for code is : 000017
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127579 ] - [ INFO ]  for code is : 000018
+ for spend : 0s8ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127586 ] - [ INFO ]  for code is : 000019
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127594 ] - [ INFO ]  for code is : 000020
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127601 ] - [ INFO ]  for code is : 000021
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127609 ] - [ INFO ]  for code is : 000022
+ for spend : 0s8ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127617 ] - [ INFO ]  for code is : 000023
+ for spend : 0s8ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127625 ] - [ INFO ]  for code is : 000025
+ for spend : 0s8ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127632 ] - [ INFO ]  for code is : 000026
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127642 ] - [ INFO ]  for code is : 000027
+ for spend : 0s9ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127649 ] - [ INFO ]  for code is : 000028
+ for spend : 0s7ms
+2018-11-22 15:59:36  [ http-nio-7807-exec-3:127671 ] - [ INFO ]  for code is : 000029
+ for spend : 0s22ms
+2018-11-22 15:59:37  [ http-nio-7807-exec-3:127689 ] - [ INFO ]  for code is : 000030
+ for spend : 0s18ms
+2018-11-22 15:59:37  [ http-nio-7807-exec-3:127696 ] - [ INFO ]  for code is : 000031
+ for spend : 0s7ms
+2018-11-22 15:59:37  [ http-nio-7807-exec-3:127703 ] - [ INFO ]  for code is : 000032
+ for spend : 0s7ms
+2018-11-22 15:59:37  [ http-nio-7807-exec-3:127711 ] - [ INFO ]  for code is : 000034
+ for spend : 0s8ms
+2018-11-22 15:59:37  [ http-nio-7807-exec-3:127719 ] - [ INFO ]  for code is : 000035
+ for spend : 0s8ms
+2018-11-22 15:59:37  [ http-nio-7807-exec-3:127719 ] - [ INFO ]  InitDayLineStockData spend : 21s161ms
+2018-11-22 16:00:04  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:00:04  [ http-nio-7807-exec-1:131 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:02:43  [ http-nio-7807-exec-1:158824 ] - [ INFO ]  for code is : 000001
+ for spend : 158s691ms
+2018-11-22 16:04:56  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:04:56  [ http-nio-7807-exec-1:120 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:11:07  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:11:07  [ http-nio-7807-exec-1:125 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:11:11  [ http-nio-7807-exec-1:3789 ] - [ INFO ]  for code is : 000001
+ for spend : 1s374ms
+2018-11-22 16:14:54  [ http-nio-7807-exec-2:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:14:54  [ http-nio-7807-exec-2:134 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:14:56  [ http-nio-7807-exec-2:1524 ] - [ INFO ]  for code is : 000001
+ for spend : 1s387ms
+2018-11-22 16:14:56  [ http-nio-7807-exec-2:2112 ] - [ ERROR ]  code : 000002 id is : null
+2018-11-22 16:14:56  [ http-nio-7807-exec-2:2115 ] - [ ERROR ]  Exception e : java.lang.NullPointerException
+2018-11-22 16:14:57  [ http-nio-7807-exec-2:2659 ] - [ INFO ]  for code is : 000002
+ for spend : 1s135ms
+2018-11-22 16:14:58  [ http-nio-7807-exec-2:3798 ] - [ INFO ]  for code is : 000004
+ for spend : 1s139ms
+2018-11-22 16:14:59  [ http-nio-7807-exec-2:4949 ] - [ INFO ]  for code is : 000005
+ for spend : 1s151ms
+2018-11-22 16:15:00  [ http-nio-7807-exec-2:6006 ] - [ INFO ]  for code is : 000006
+ for spend : 1s57ms
+2018-11-22 16:15:01  [ http-nio-7807-exec-2:7060 ] - [ INFO ]  for code is : 000007
+ for spend : 1s54ms
+2018-11-22 16:15:02  [ http-nio-7807-exec-2:8050 ] - [ INFO ]  for code is : 000008
+ for spend : 0s990ms
+2018-11-22 16:15:03  [ http-nio-7807-exec-2:9040 ] - [ INFO ]  for code is : 000009
+ for spend : 0s990ms
+2018-11-22 16:15:04  [ http-nio-7807-exec-2:10026 ] - [ INFO ]  for code is : 000010
+ for spend : 0s986ms
+2018-11-22 16:15:05  [ http-nio-7807-exec-2:11135 ] - [ INFO ]  for code is : 000011
+ for spend : 1s109ms
+2018-11-22 16:15:06  [ http-nio-7807-exec-2:12135 ] - [ INFO ]  for code is : 000012
+ for spend : 1s0ms
+2018-11-22 16:15:08  [ http-nio-7807-exec-2:13274 ] - [ INFO ]  for code is : 000014
+ for spend : 1s138ms
+2018-11-22 16:15:09  [ http-nio-7807-exec-2:14281 ] - [ INFO ]  for code is : 000016
+ for spend : 1s5ms
+2018-11-22 16:15:10  [ http-nio-7807-exec-2:15281 ] - [ INFO ]  for code is : 000017
+ for spend : 1s0ms
+2018-11-22 16:15:11  [ http-nio-7807-exec-2:16329 ] - [ INFO ]  for code is : 000018
+ for spend : 1s47ms
+2018-11-22 16:15:11  [ http-nio-7807-exec-2:16335 ] - [ INFO ]  for code is : 000019
+ for spend : 0s6ms
+2018-11-22 16:15:12  [ http-nio-7807-exec-2:17387 ] - [ INFO ]  for code is : 000020
+ for spend : 1s52ms
+2018-11-22 16:15:13  [ http-nio-7807-exec-2:18409 ] - [ INFO ]  for code is : 000021
+ for spend : 1s21ms
+2018-11-22 16:15:14  [ http-nio-7807-exec-2:19409 ] - [ INFO ]  for code is : 000022
+ for spend : 0s998ms
+2018-11-22 16:15:15  [ http-nio-7807-exec-2:20540 ] - [ INFO ]  for code is : 000023
+ for spend : 1s131ms
+2018-11-22 16:15:16  [ http-nio-7807-exec-2:21572 ] - [ INFO ]  for code is : 000025
+ for spend : 1s32ms
+2018-11-22 16:15:16  [ http-nio-7807-exec-2:21578 ] - [ INFO ]  for code is : 000026
+ for spend : 0s6ms
+2018-11-22 16:15:17  [ http-nio-7807-exec-2:22597 ] - [ INFO ]  for code is : 000027
+ for spend : 1s18ms
+2018-11-22 16:15:18  [ http-nio-7807-exec-2:23642 ] - [ INFO ]  for code is : 000028
+ for spend : 1s45ms
+2018-11-22 16:15:19  [ http-nio-7807-exec-2:24635 ] - [ INFO ]  for code is : 000029
+ for spend : 0s993ms
+2018-11-22 16:15:20  [ http-nio-7807-exec-2:25725 ] - [ INFO ]  for code is : 000030
+ for spend : 1s90ms
+2018-11-22 16:15:21  [ http-nio-7807-exec-2:26848 ] - [ INFO ]  for code is : 000031
+ for spend : 1s122ms
+2018-11-22 16:15:22  [ http-nio-7807-exec-2:27845 ] - [ INFO ]  for code is : 000032
+ for spend : 0s997ms
+2018-11-22 16:15:23  [ http-nio-7807-exec-2:28856 ] - [ INFO ]  for code is : 000034
+ for spend : 1s11ms
+2018-11-22 16:15:24  [ http-nio-7807-exec-2:29973 ] - [ INFO ]  for code is : 000035
+ for spend : 1s116ms
+2018-11-22 16:15:26  [ http-nio-7807-exec-2:31433 ] - [ INFO ]  for code is : 000036
+ for spend : 1s460ms
+2018-11-22 16:15:28  [ http-nio-7807-exec-2:33561 ] - [ INFO ]  for code is : 000037
+ for spend : 2s128ms
+2018-11-22 16:15:30  [ http-nio-7807-exec-2:35792 ] - [ INFO ]  for code is : 000038
+ for spend : 2s229ms
+2018-11-22 16:15:32  [ http-nio-7807-exec-2:37377 ] - [ INFO ]  for code is : 000039
+ for spend : 1s585ms
+2018-11-22 16:15:33  [ http-nio-7807-exec-2:38465 ] - [ INFO ]  for code is : 000040
+ for spend : 1s88ms
+2018-11-22 16:15:34  [ http-nio-7807-exec-2:39576 ] - [ INFO ]  for code is : 000042
+ for spend : 1s111ms
+2018-11-22 16:15:35  [ http-nio-7807-exec-2:40634 ] - [ INFO ]  for code is : 000043
+ for spend : 1s58ms
+2018-11-22 16:15:36  [ http-nio-7807-exec-2:41670 ] - [ INFO ]  for code is : 000045
+ for spend : 1s36ms
+2018-11-22 16:15:37  [ http-nio-7807-exec-2:42719 ] - [ INFO ]  for code is : 000046
+ for spend : 1s48ms
+2018-11-22 16:15:38  [ http-nio-7807-exec-2:43731 ] - [ INFO ]  for code is : 000048
+ for spend : 1s12ms
+2018-11-22 16:15:39  [ http-nio-7807-exec-2:44793 ] - [ INFO ]  for code is : 000049
+ for spend : 1s62ms
+2018-11-22 16:32:07  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:32:07  [ http-nio-7807-exec-1:137 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:32:08  [ http-nio-7807-exec-1:1498 ] - [ INFO ]  for code is : 000001
+ for spend : 1s360ms
+2018-11-22 16:33:52  [ http-nio-7807-exec-2:105147 ] - [ INFO ]  for code is : 000001
+ for spend : 1s702ms
+2018-11-22 16:38:24  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:38:24  [ http-nio-7807-exec-1:127 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:38:25  [ http-nio-7807-exec-1:1320 ] - [ INFO ]  for code is : 000001
+ for spend : 1s191ms
+2018-11-22 16:39:31  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:39:31  [ http-nio-7807-exec-1:117 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:39:32  [ http-nio-7807-exec-1:1460 ] - [ INFO ]  for code is : 000001
+ for spend : 1s341ms
+2018-11-22 16:40:24  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:40:24  [ http-nio-7807-exec-1:117 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:40:26  [ http-nio-7807-exec-1:1968 ] - [ INFO ]  for code is : 000001
+ for spend : 1s850ms
+2018-11-22 16:41:57  [ http-nio-7807-exec-2:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:41:57  [ http-nio-7807-exec-2:124 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:41:59  [ http-nio-7807-exec-2:2188 ] - [ INFO ]  for code is : 000001
+ for spend : 2s62ms
+2018-11-22 16:43:15  [ http-nio-7807-exec-1:77813 ] - [ INFO ]  for code is : 000001
+ for spend : 1s841ms
+2018-11-22 16:44:32  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:44:32  [ http-nio-7807-exec-1:137 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:44:33  [ http-nio-7807-exec-1:1565 ] - [ INFO ]  for code is : 000001
+ for spend : 1s427ms
+2018-11-22 16:44:36  [ http-nio-7807-exec-1:4892 ] - [ ERROR ]  code : 000002 id is : 78
+2018-11-22 16:44:36  [ http-nio-7807-exec-1:4893 ] - [ ERROR ]  Exception e : java.lang.NullPointerException
+2018-11-22 16:44:37  [ http-nio-7807-exec-1:5449 ] - [ INFO ]  for code is : 000002
+ for spend : 3s883ms
+2018-11-22 16:44:38  [ http-nio-7807-exec-1:6570 ] - [ INFO ]  for code is : 000004
+ for spend : 1s121ms
+2018-11-22 16:44:39  [ http-nio-7807-exec-1:7676 ] - [ INFO ]  for code is : 000005
+ for spend : 1s106ms
+2018-11-22 16:44:40  [ http-nio-7807-exec-1:8761 ] - [ INFO ]  for code is : 000006
+ for spend : 1s85ms
+2018-11-22 16:44:41  [ http-nio-7807-exec-1:9809 ] - [ INFO ]  for code is : 000007
+ for spend : 1s47ms
+2018-11-22 16:44:42  [ http-nio-7807-exec-1:10840 ] - [ INFO ]  for code is : 000008
+ for spend : 1s31ms
+2018-11-22 16:44:43  [ http-nio-7807-exec-1:11955 ] - [ INFO ]  for code is : 000009
+ for spend : 1s114ms
+2018-11-22 16:44:45  [ http-nio-7807-exec-1:13039 ] - [ INFO ]  for code is : 000010
+ for spend : 1s83ms
+2018-11-22 16:44:46  [ http-nio-7807-exec-1:14094 ] - [ INFO ]  for code is : 000011
+ for spend : 1s54ms
+2018-11-22 16:44:47  [ http-nio-7807-exec-1:15167 ] - [ INFO ]  for code is : 000012
+ for spend : 1s73ms
+2018-11-22 16:44:48  [ http-nio-7807-exec-1:16230 ] - [ INFO ]  for code is : 000014
+ for spend : 1s63ms
+2018-11-22 16:44:49  [ http-nio-7807-exec-1:17275 ] - [ INFO ]  for code is : 000016
+ for spend : 1s44ms
+2018-11-22 16:44:52  [ http-nio-7807-exec-1:20027 ] - [ INFO ]  for code is : 000017
+ for spend : 2s752ms
+2018-11-22 16:44:54  [ http-nio-7807-exec-1:22870 ] - [ INFO ]  for code is : 000018
+ for spend : 2s843ms
+2018-11-22 16:44:54  [ http-nio-7807-exec-1:22877 ] - [ INFO ]  for code is : 000019
+ for spend : 0s6ms
+2018-11-22 16:44:56  [ http-nio-7807-exec-1:24003 ] - [ INFO ]  for code is : 000020
+ for spend : 1s126ms
+2018-11-22 16:44:57  [ http-nio-7807-exec-1:25126 ] - [ INFO ]  for code is : 000021
+ for spend : 1s123ms
+2018-11-22 16:44:58  [ http-nio-7807-exec-1:26246 ] - [ INFO ]  for code is : 000022
+ for spend : 1s118ms
+2018-11-22 16:44:59  [ http-nio-7807-exec-1:27368 ] - [ INFO ]  for code is : 000023
+ for spend : 1s122ms
+2018-11-22 16:45:00  [ http-nio-7807-exec-1:28452 ] - [ INFO ]  for code is : 000025
+ for spend : 1s83ms
+2018-11-22 16:45:00  [ http-nio-7807-exec-1:28459 ] - [ INFO ]  for code is : 000026
+ for spend : 0s6ms
+2018-11-22 16:45:01  [ http-nio-7807-exec-1:29560 ] - [ INFO ]  for code is : 000027
+ for spend : 1s101ms
+2018-11-22 16:45:02  [ http-nio-7807-exec-1:30654 ] - [ INFO ]  for code is : 000028
+ for spend : 1s94ms
+2018-11-22 16:45:03  [ http-nio-7807-exec-1:31700 ] - [ INFO ]  for code is : 000029
+ for spend : 1s44ms
+2018-11-22 16:45:04  [ http-nio-7807-exec-1:32748 ] - [ INFO ]  for code is : 000030
+ for spend : 1s48ms
+2018-11-22 16:45:05  [ http-nio-7807-exec-1:33766 ] - [ INFO ]  for code is : 000031
+ for spend : 1s18ms
+2018-11-22 16:45:06  [ http-nio-7807-exec-1:34881 ] - [ INFO ]  for code is : 000032
+ for spend : 1s115ms
+2018-11-22 16:45:08  [ http-nio-7807-exec-1:36173 ] - [ INFO ]  for code is : 000034
+ for spend : 1s292ms
+2018-11-22 16:45:09  [ http-nio-7807-exec-1:37194 ] - [ INFO ]  for code is : 000035
+ for spend : 1s21ms
+2018-11-22 16:45:09  [ http-nio-7807-exec-1:37194 ] - [ INFO ]  InitDayLineStockData spend : 37s455ms
+2018-11-22 16:46:22  [ main:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:46:23  [ main:253 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:46:23  [ Thread-3:316 ] - [ DEBUG ]  {conn-10001, pstmt-20000} exit cache
+2018-11-22 16:46:23  [ Thread-3:318 ] - [ INFO ]  {dataSource-1} closed
+2018-11-22 16:46:52  [ main:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 16:46:53  [ main:310 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 16:46:53  [ Thread-3:379 ] - [ DEBUG ]  {conn-10001, pstmt-20000} exit cache
+2018-11-22 16:46:53  [ Thread-3:381 ] - [ INFO ]  {dataSource-1} closed
+2018-11-22 22:54:07  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 22:54:07  [ http-nio-7807-exec-1:153 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:01:33  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 23:01:33  [ http-nio-7807-exec-1:169 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:01:39  [ http-nio-7807-exec-1:5957 ] - [ INFO ]  for code is : 000001
+ for spend : 0s744ms
+2018-11-22 23:06:32  [ http-nio-7807-exec-1:299516 ] - [ INFO ]  for code is : 000002
+ for spend : 0s453ms
+2018-11-22 23:07:18  [ http-nio-7807-exec-1:345211 ] - [ INFO ]  for code is : 000004
+ for spend : 0s343ms
+2018-11-22 23:07:49  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 23:07:49  [ http-nio-7807-exec-1:165 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:07:54  [ http-nio-7807-exec-1:5295 ] - [ INFO ]  for code is : 000001 for spend : 0s685ms
+2018-11-22 23:34:33  [ http-nio-7807-exec-1:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 23:34:34  [ http-nio-7807-exec-1:145 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:34:36  [ http-nio-7807-exec-1:3002 ] - [ INFO ]  save code 000001 spend : 2s855ms
+2018-11-22 23:34:39  [ http-nio-7807-exec-1:5307 ] - [ INFO ]  save code 000002 spend : 2s305ms
+2018-11-22 23:34:39  [ http-nio-7807-exec-1:5719 ] - [ ERROR ]  okhttp return null , code is : 000004
+2018-11-22 23:34:39  [ http-nio-7807-exec-1:5730 ] - [ INFO ]  save code 000004 spend : 0s423ms
+2018-11-22 23:34:41  [ http-nio-7807-exec-1:7684 ] - [ INFO ]  save code 000005 spend : 1s954ms
+2018-11-22 23:34:41  [ http-nio-7807-exec-1:8059 ] - [ ERROR ]  okhttp return null , code is : 000006
+2018-11-22 23:34:41  [ http-nio-7807-exec-1:8067 ] - [ INFO ]  save code 000006 spend : 0s383ms
+2018-11-22 23:34:44  [ http-nio-7807-exec-1:10211 ] - [ INFO ]  save code 000007 spend : 2s144ms
+2018-11-22 23:34:46  [ http-nio-7807-exec-1:12350 ] - [ INFO ]  save code 000008 spend : 2s139ms
+2018-11-22 23:34:48  [ http-nio-7807-exec-1:14479 ] - [ INFO ]  save code 000009 spend : 2s129ms
+2018-11-22 23:34:50  [ http-nio-7807-exec-1:16509 ] - [ INFO ]  save code 000010 spend : 2s30ms
+2018-11-22 23:34:52  [ http-nio-7807-exec-1:18526 ] - [ INFO ]  save code 000011 spend : 2s17ms
+2018-11-22 23:34:54  [ http-nio-7807-exec-1:20522 ] - [ INFO ]  save code 000012 spend : 1s995ms
+2018-11-22 23:34:56  [ http-nio-7807-exec-1:22552 ] - [ INFO ]  save code 000014 spend : 2s29ms
+2018-11-22 23:34:56  [ http-nio-7807-exec-1:23023 ] - [ ERROR ]  okhttp return null , code is : 000016
+2018-11-22 23:34:56  [ http-nio-7807-exec-1:23030 ] - [ INFO ]  save code 000016 spend : 0s476ms
+2018-11-22 23:34:59  [ http-nio-7807-exec-1:25155 ] - [ INFO ]  save code 000017 spend : 2s124ms
+2018-11-22 23:35:01  [ http-nio-7807-exec-1:27300 ] - [ INFO ]  save code 000018 spend : 2s144ms
+2018-11-22 23:35:40  [ http-nio-7807-exec-1:66648 ] - [ INFO ]  begin check code 
+2018-11-22 23:35:44  [ http-nio-7807-exec-1:71051 ] - [ INFO ]  finish code : 000004
+2018-11-22 23:35:45  [ http-nio-7807-exec-1:71515 ] - [ ERROR ]  okhttp return null , code is : 000006
+2018-11-22 23:35:45  [ http-nio-7807-exec-1:71528 ] - [ INFO ]  finish code : 000006
+2018-11-22 23:35:47  [ http-nio-7807-exec-1:73607 ] - [ INFO ]  finish code : 000016
+2018-11-22 23:35:47  [ http-nio-7807-exec-1:73614 ] - [ INFO ]  current FailList size is : 0
+2018-11-22 23:37:46  [ http-nio-7807-exec-1:192591 ] - [ INFO ]  current FailList size is : 0
+2018-11-22 23:37:46  [ http-nio-7807-exec-1:192592 ] - [ INFO ]  allSpend time is : 192s835ms
+2018-11-22 23:39:16  [ http-nio-7807-exec-2:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 23:39:16  [ http-nio-7807-exec-2:176 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:39:19  [ http-nio-7807-exec-2:2882 ] - [ INFO ]  save code 000001 spend : 2s700ms
+2018-11-22 23:39:22  [ http-nio-7807-exec-2:5303 ] - [ INFO ]  save code 000002 spend : 2s421ms
+2018-11-22 23:39:24  [ http-nio-7807-exec-2:7491 ] - [ INFO ]  save code 000004 spend : 2s188ms
+2018-11-22 23:39:26  [ http-nio-7807-exec-2:9780 ] - [ INFO ]  save code 000005 spend : 2s289ms
+2018-11-22 23:39:28  [ http-nio-7807-exec-2:12103 ] - [ INFO ]  save code 000006 spend : 2s322ms
+2018-11-22 23:39:31  [ http-nio-7807-exec-2:14432 ] - [ INFO ]  save code 000007 spend : 2s328ms
+2018-11-22 23:39:33  [ http-nio-7807-exec-2:16652 ] - [ INFO ]  save code 000008 spend : 2s220ms
+2018-11-22 23:39:35  [ http-nio-7807-exec-2:19069 ] - [ INFO ]  save code 000009 spend : 2s416ms
+2018-11-22 23:39:38  [ http-nio-7807-exec-2:21437 ] - [ INFO ]  save code 000010 spend : 2s367ms
+2018-11-22 23:39:40  [ http-nio-7807-exec-2:23776 ] - [ INFO ]  save code 000011 spend : 2s339ms
+2018-11-22 23:39:40  [ http-nio-7807-exec-2:24193 ] - [ ERROR ]  okhttp return null , code is : 000012
+2018-11-22 23:39:40  [ http-nio-7807-exec-2:24210 ] - [ INFO ]  save code 000012 spend : 0s434ms
+2018-11-22 23:39:43  [ http-nio-7807-exec-2:26464 ] - [ INFO ]  save code 000014 spend : 2s254ms
+2018-11-22 23:39:45  [ http-nio-7807-exec-2:28785 ] - [ INFO ]  save code 000016 spend : 2s321ms
+2018-11-22 23:39:48  [ http-nio-7807-exec-2:31281 ] - [ INFO ]  save code 000017 spend : 2s495ms
+2018-11-22 23:39:50  [ http-nio-7807-exec-2:33565 ] - [ INFO ]  save code 000018 spend : 2s284ms
+2018-11-22 23:39:50  [ http-nio-7807-exec-2:33636 ] - [ INFO ]  begin check code 
+2018-11-22 23:40:23  [ http-nio-7807-exec-2:66668 ] - [ INFO ]  finish code : 000012
+2018-11-22 23:40:23  [ http-nio-7807-exec-2:66675 ] - [ INFO ]  current FailList size is : 0
+2018-11-22 23:40:39  [ http-nio-7807-exec-2:82749 ] - [ INFO ]  current FailList size is : 0
+2018-11-22 23:40:39  [ http-nio-7807-exec-2:82749 ] - [ INFO ]  allSpend time is : 83s22ms
+2018-11-22 23:41:51  [ main:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 23:41:52  [ main:939 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:41:52  [ Thread-3:1029 ] - [ DEBUG ]  {conn-10001, pstmt-20000} exit cache
+2018-11-22 23:41:52  [ Thread-3:1032 ] - [ INFO ]  {dataSource-1} closed
+2018-11-22 23:46:03  [ main:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 23:46:03  [ main:322 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:46:03  [ Thread-3:409 ] - [ DEBUG ]  {conn-10001, pstmt-20000} exit cache
+2018-11-22 23:46:03  [ Thread-3:412 ] - [ INFO ]  {dataSource-1} closed
+2018-11-22 23:46:32  [ main:0 ] - [ INFO ]  {dataSource-1} inited
+2018-11-22 23:46:33  [ main:332 ] - [ DEBUG ]  {conn-10001, pstmt-20000} enter cache
+2018-11-22 23:46:33  [ Thread-3:472 ] - [ DEBUG ]  {conn-10001, pstmt-20000} exit cache
+2018-11-22 23:46:33  [ Thread-3:476 ] - [ INFO ]  {dataSource-1} closed
