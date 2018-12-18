@@ -1,14 +1,11 @@
 package com.renchaigao.spider;
 
+import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import com.renchaigao.spider.dao.AllCodeAllDayLine;
 import com.renchaigao.spider.dao.StockDayLine;
-import com.renchaigao.spider.dao.StockMinLine;
 import com.renchaigao.spider.dao.codes;
 import com.renchaigao.spider.dao.mapper.codesMapper;
-import com.renchaigao.spider.service.impl.ProcessDataServiceImpl;
-import com.renchaigao.spider.service.impl.SpiderServiceImpl;
-import com.renchaigao.spider.util.StockPriceProcess;
-import javafx.scene.shape.Circle;
 import org.apache.log4j.Logger;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -19,10 +16,7 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import java.util.Calendar;
-import java.util.List;
-
-import static com.renchaigao.spider.util.StockPriceProcess.FloatValueProcess;
+import java.util.*;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -31,24 +25,86 @@ public class SpiderApplicationTests {
     private static Logger logger = Logger.getLogger(SpiderApplicationTests.class);
 
     @Autowired
+    MongoTemplate mongoTemplate;
 
+    @Autowired
     codesMapper codesMapper;
+
+    @Test
+    public void chufaTest(){
+//        Float a = (float) 10.25;
+//        Float b = (float) 10.27;
+//        Float c = a/b;
+//        Float d = a%b;
+//        c=b/a;
+//        d=b%a;
+//        d = null;
+//
+//        Long a=Long.valueOf( 103387753);
+//        Long b=Long.valueOf( 104387753);
+//        Float c =(float) a/b;
+//        c=null;
+
+//        Integer i = DateUtil.CompareTwoDays("20181012","20171211");
+//        i = null;
+    }
     @Test
     public void contextLoads() {
-//        Float a = StockPriceProcess.FloatValueProcess(Float.valueOf((float) 3.119));
-//        System.out.println(a);
-//        a = StockPriceProcess.FloatValueProcess(Float.valueOf((float) 3.111));
-//        System.out.println(a);
-//        a = StockPriceProcess.FloatValueProcess(Float.valueOf((float) -3.119));
-//        System.out.println(a);
-//        a = StockPriceProcess.FloatValueProcess(Float.valueOf((float) -3.112));
-//        System.out.println(a);
-//        List<codes> codesList = codesMapper.selectAllCodes();
-//        codesList = null;
+//        SpiderUrl spiderUrl = new SpiderUrl();
+////        获取所有失败的code
+//        String dateString = "20181123";
+//        Criteria criteria = Criteria.where("date").is("20181123");
+//        ArrayList<JSONObject> jsonObjectList = new ArrayList<>(
+//                mongoTemplate.find(Query.query(criteria), JSONObject.class, StockDBName.STOCK_DB_MIN_LINE_UPDATE_FAIL));
+////        将所有code查询分时线数据，然后判断是什么类型
+//        for (JSONObject jsonObject : jsonObjectList) {
+//            Long beginTime = Calendar.getInstance().getTimeInMillis();
+//            String code = jsonObject.getString("code");
+//            String urlSZ = spiderUrl.getMinuteTimeLineUrl() + "sz" + code;
+//            String urlSH = spiderUrl.getMinuteTimeLineUrl() + "sh" + code;
+//            try {
+//                String retString = OkHttpUtil.get(urlSZ, null);
+//                logger.error("SZ try ,code : " + code + " begin ~");
+//                if (ObjectUtils.isEmpty(retString)) {
+//                    logger.error("SZ try ,code : " + code + " retString is empty");
+//                } else {
+//                    JSONObject json = JSONObject.parseObject(retString);
+//                    if (json.getString("errorNo").equals("0")) {
+//                        logger.error("SZ try ,code : " + code + " retString is ok");
+//                    } else {
+//                        logger.error("SZ try ,code : " + code + " errorNo isnot 0");
+//                    }
+//                }
+//            } catch (Exception e) {
+//                logger.error("SZ try ,code : " + code + " happen exception : e is " + e.toString());
+//            }
+//            try {
+//                String retString = OkHttpUtil.get(urlSH, null);
+//                logger.error("SH try ,code : " + code + " begin ~");
+//                if (ObjectUtils.isEmpty(retString)) {
+//                    logger.error("SH try ,code : " + code + " retString is empty");
+//                } else {
+//                    JSONObject json = JSONObject.parseObject(retString);
+//                    if (json.getString("errorNo").equals("0")) {
+//                        if(json.getString("timeLine").length()!=0){
+//                            logger.error("SH try ,code : " + code + " timeLine is ok");
+//                        }else {
+//                            logger.error("SH try ,code : " + code + " timeLine is wrong");
+//                        }
+//                        logger.error("SH try ,code : " + code + " retString is ok");
+//                    } else {
+//                        logger.error("SH try ,code : " + code + " errorNo isnot 0");
+//                    }
+//                }
+//            } catch (Exception e) {
+//                logger.error("SH try ,code : " + code + " happen exception : e is " + e.toString());
+//            }
+//            Long iTimeEnd = Calendar.getInstance().getTimeInMillis();
+//            logger.info("code " + code + " spend : " + (iTimeEnd - beginTime) / 1000 + "s"
+//                    + (iTimeEnd - beginTime) % 1000 + "ms");
+//        }
     }
 //
-//    @Autowired
-//    MongoTemplate mongoTemplate;
 //
 //    @Test
 //    public void getHighOpenTimes() {
@@ -167,5 +223,35 @@ public class SpiderApplicationTests {
 //        logger.info("UpdateMissDayLine spend times is : " + (forend - beginTime) / 1000 + "s"
 //                + (forend - beginTime) % 1000 + "ms");
 //    }
-
+//    @Test
+//    public void readAllDayLineData(){
+//        Long beginTime = Calendar.getInstance().getTimeInMillis();
+//        List<codes> codesList = codesMapper.selectAllCodes();
+//        for (codes codes : codesList) {
+//
+//            Long forBeginTimes = Calendar.getInstance().getTimeInMillis();
+//            ArrayList<StockDayLine> stockDayLines = new ArrayList<>(
+//                    mongoTemplate.find(Query.query(Criteria.where("dataClass").is("DayLine")),
+//                            StockDayLine.class, codes.getCode().toString()));
+//            AllCodeAllDayLine allCodeAllDayLine =new AllCodeAllDayLine();
+//            allCodeAllDayLine.setId(codes.getCode());
+//            allCodeAllDayLine.setCode(codes.getCode());
+//            allCodeAllDayLine.setName(codes.getName());
+//            allCodeAllDayLine.setDataSum(stockDayLines.size());
+//            Collections.sort(stockDayLines, new Comparator<StockDayLine>() {
+//                @Override
+//                public int compare(StockDayLine o1, StockDayLine o2) {
+//                    return (Integer.valueOf(o2.getId()) - Integer.valueOf(o1.getId()));
+//                }
+//            });
+//            allCodeAllDayLine.setStockDayLines(stockDayLines);
+//            allCodeAllDayLine.setLastDataString(stockDayLines.get(0).getId());
+//            mongoTemplate.save(allCodeAllDayLine,"*AllCodeAllDayLineDB");
+//            Long forEndTimes = Calendar.getInstance().getTimeInMillis();
+//            logger.info("finish code : " + codes.getId().toString() + " ,and spend time is : " +
+//                    (forEndTimes - forBeginTimes) / 1000 + "s" + (forEndTimes - forBeginTimes) % 1000 + "ms"            );
+//        }
+//        Long endTime = Calendar.getInstance().getTimeInMillis();
+//        logger.info("readAllDayLineData all spend time : " + (endTime - beginTime) / 1000 + "s" + (endTime - beginTime) % 1000 + "ms");
+//    }
 }

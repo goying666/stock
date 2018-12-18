@@ -6,4 +6,8 @@ public interface ProcessDataService {
     ResponseEntity InitDayLineStockData();
     ResponseEntity GetHighOpenData(String date);
 
+    ResponseEntity GuessOne();
+    ResponseEntity GuessTwo(String code);
+    ResponseEntity GuessThree(String code);
+
 }

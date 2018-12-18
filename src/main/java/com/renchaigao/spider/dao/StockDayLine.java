@@ -17,7 +17,8 @@ public class StockDayLine {
     private Long volume;
     private Long amount;
     private Float preClose;
-    private Float netChangeRatio;
+    private Float netChangeRatio; //涨跌幅
+
     private Float ma5_volume;
     private Float ma10_volume;
     private Float ma20_volume;
@@ -33,6 +34,14 @@ public class StockDayLine {
     private Float rsi1;
     private Float rsi2;
     private Float rsi3;
+
+
+    private Float ChangeSorting;//涨跌额
+    private Float AmplitudeSorting;//振幅
+    private Float VolumeRate; //量比
+    private Float TurnoverRate;//换手率
+    private Float PERationSorting;//市盈率（动态）
+    private Float PBSorting;//市净率
 
     private String stockClass;
 

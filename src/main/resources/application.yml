@@ -1,5 +1,5 @@
 server:
-  port: 7807
+  port: 7809
 
 spring:
     datasource:
@@ -35,7 +35,7 @@ spring:
 #        uri: mongodb://47.106.149.105:27017
 #        username: admin
 #        password: 123
-        database: stockDB
+        database: stockNEW
 #        primary:
 #          host: 47.106.149.105
 #          port: 27017

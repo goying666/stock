@@ -1,6 +1,5 @@
 package com.renchaigao.spider.controller;
 
-import com.renchaigao.spider.service.impl.ProcessDataServiceImpl;
 import com.renchaigao.spider.service.impl.StockHistoryServiceImpl;
 import com.renchaigao.zujuba.domain.response.ResponseEntity;
 import org.springframework.beans.factory.annotation.Autowired;
